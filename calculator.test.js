@@ -67,7 +67,7 @@ describe('When no data is passed',()=>{
     test('No data is passed in addition',()=>{
         expect(calculator.add()).toBe(NaN)
 })
-    test('No data is passed in addition',()=>{
+    test('No data is passed in division',()=>{
         expect(calculator.divide()).toBe(NaN)
 })
 
