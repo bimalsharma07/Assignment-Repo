@@ -1,2 +1,1 @@
-# Assignment-Repo
-This repo is created for Assignment purpose
+Cypress tests and Unit tests for a simple calculator function.
